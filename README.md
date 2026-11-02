@@ -1,10 +1,10 @@
-# W9 Assessment C — [Your Name]
+# W9 Assessment C — Briana Heredia
 
 > Replace every bracket in this file before your last commit. Your facilitator reads this file first.
 
 ## Purpose
 
-[One or two sentences: what is in this repo and what it does.]
+Showing my skills.
 
 ## Setup
 
@@ -16,5 +16,4 @@
 - **Task 3 (data pipeline):** [command to run the pipeline, and which files it creates]
 
 ## Known Issues
-
-[What doesn't work yet, or what you would fix with more time.]
+The right formatting for the data.
